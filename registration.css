@@ -1,0 +1,56 @@
+body{
+				background-image: url("registration page.jpeg");
+				background-size: 1550px 1200px; 
+			}
+			.form{
+					margin-left: 440px;
+					
+					}
+			.gender{
+					margin-left: 220px;
+					}
+			.nationality{
+					margin-left: 275px;
+					}
+			.phone{
+					margin-left: 265px;
+					}
+			.mnumber{
+					margin-left: 185px;
+					}
+			.year{
+					margin-left: 262px;
+					}
+			.post{
+					margin-left: 290px;
+					}
+			.pin{
+					margin-left: 260px;
+					}
+			.conpass{
+					margin-left: 220px;
+					}
+			.sign{
+					margin-left: 120px;
+					}
+			.hsmark{
+					margin-left: 155px;
+					}
+			.rank{
+					margin-left: 135px;
+					}
+			.submit{
+					background-color: green;
+					color: white;
+					}
+			.reset{
+					margin-left: 0px;
+					background-color: red;
+					color: white;
+					}
+
+		@media only screen and (max-width: 500px){
+			body{
+				display: flex;
+			}
+		}
